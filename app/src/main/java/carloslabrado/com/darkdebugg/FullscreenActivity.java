@@ -130,7 +130,7 @@ public class FullscreenActivity extends AppCompatActivity {
             }
         };
 
-        mHandler.postDelayed(runnable, 12006000);
+        mHandler.postDelayed(runnable, 1206000);
 
     }
 
